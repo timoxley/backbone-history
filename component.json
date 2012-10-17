@@ -1,0 +1,15 @@
+{
+  "name": "backbone-history",
+  "repo": "timoxley/backbone-history",
+  "description": "Backbone.History Component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/underscore": "*",
+    "component/jquery": "*"
+  },
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
